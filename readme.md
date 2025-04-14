@@ -2,6 +2,8 @@
 
 **TrashDash** is a fun and addictive 2D side-scrolling game created using **Adobe Animate** and **HTML5 Canvas**. Inspired by the mechanics of *Flappy Bird*, you control a mischievous raccoon who dodges obstacles, collects trash treasures, and dashes through a vibrant animated world.
 
+🎮 **[Play the game live here!](https://eshab01.github.io/TrashDash-Animation/)**
+
 ## 🎮 Gameplay
 
 - Tap/Click or press **Spacebar** to make the raccoon jump.
